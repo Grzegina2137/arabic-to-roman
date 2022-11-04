@@ -1,10 +1,4 @@
-
 let snail = function(arr) {
-//   if(arr.flat(2).length == 0){
-//     return []
-//   }
-
-
    let lvl = 0;
    let left = 0;
    let width = arr.length - 1;
